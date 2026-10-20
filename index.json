@@ -1,0 +1,11 @@
+{
+  "org": "pre-commit",
+  "repo": "pygrep-hooks",
+  "versions": [
+    {
+      "commit": "bc3cc02ec801748199091b05f6289790e328b665",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:38:33.662957+00:00"
+    }
+  ]
+}
