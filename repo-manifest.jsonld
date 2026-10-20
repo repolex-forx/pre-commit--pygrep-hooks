@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pre-commit/pygrep-hooks/commit/bc3cc02ec801748199091b05f6289790e328b665",
       "git:hexsha": "bc3cc02ec801748199091b05f6289790e328b665",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T11:38:33.662341+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pre-commit/pygrep-hooks/commit/8284ac9280c0a2c8026951f6f7c5a63a84da3f51",
