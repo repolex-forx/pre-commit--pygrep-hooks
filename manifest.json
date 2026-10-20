@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "pre-commit",
+  "repo": "pygrep-hooks",
+  "versions": [
+    {
+      "commit": "bc3cc02ec801748199091b05f6289790e328b665",
+      "parsed_at": "2026-10-20T11:36:23.846637+00:00",
+      "filetree": "filetree/bc3cc02ec801748199091b05f6289790e328b665.nq.gz",
+      "blobs": [
+        "blob/b7af5ef213084fe100c5bb755659ef68c14dae5b.nq.gz",
+        "blob/6cee8165d63da453a392f95b8b1d71c4f9b309b9.nq.gz",
+        "blob/dc9dc20a7bebba97e123cd670a49a4184025bf20.nq.gz",
+        "blob/27271818d621a2bc4d2150f1d22a1edc7a4f3f89.nq.gz",
+        "blob/022e3dc72b1c03413ff61d9b530af66bc7e9d847.nq.gz",
+        "blob/ac7dd263b587bc5c2c87f7359c0d66fa30a9ceba.nq.gz",
+        "blob/0d20b6487c61e7d1bde93acf4a14b7a89083a16d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
